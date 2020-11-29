@@ -1,2 +1,7 @@
-Build/
+build/
 imgui.ini
+settings.ini
+.vscode/
+CMakeSettings.json
+out/
+.vs/
